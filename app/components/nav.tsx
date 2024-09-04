@@ -13,6 +13,9 @@ const navItems = {
   "/gallery": {
     name: "gallery",
   },
+  "/about": {
+    name: "about",
+  },
 };
 
 export function Navbar() {
